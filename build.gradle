@@ -4,7 +4,7 @@ plugins {
     id 'io.spring.dependency-management' version '1.1.7'
 }
 
-group = 'com.junbank'
+group = 'com.jun_bank'
 version = '0.0.1-SNAPSHOT'
 description = 'Account Service - 계좌 관리 서비스 (잔액 관리, 동시성 제어 학습)'
 
